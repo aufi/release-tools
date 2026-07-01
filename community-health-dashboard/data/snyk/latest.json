@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-06-30T03:18:30Z",
+  "timestamp": "2026-07-01T03:05:33Z",
   "repositories": [
     {
       "org": "konveyor",
       "repo": "analyzer-lsp",
       "vulnerabilities": {
-        "critical": 169,
-        "high": 3047,
-        "medium": 4980,
-        "low": 236,
-        "total": 8432
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
       }
     },
     {
@@ -27,33 +27,33 @@
       "org": "konveyor",
       "repo": "java-analyzer-bundle",
       "vulnerabilities": {
-        "critical": 10,
-        "high": 41,
-        "medium": 47,
-        "low": 13,
-        "total": 111
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
       }
     },
     {
       "org": "konveyor",
       "repo": "kai",
       "vulnerabilities": {
-        "critical": 42,
-        "high": 1298,
-        "medium": 1421,
-        "low": 22,
-        "total": 2783
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
       }
     },
     {
       "org": "konveyor",
       "repo": "kantra",
       "vulnerabilities": {
-        "critical": 34,
-        "high": 589,
-        "medium": 795,
-        "low": 40,
-        "total": 1458
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
       }
     },
     {
@@ -73,20 +73,20 @@
       "vulnerabilities": {
         "critical": 0,
         "high": 0,
-        "medium": 1,
+        "medium": 0,
         "low": 0,
-        "total": 1
+        "total": 0
       }
     },
     {
       "org": "konveyor",
       "repo": "tackle2-hub",
       "vulnerabilities": {
-        "critical": 44,
-        "high": 2344,
-        "medium": 3034,
-        "low": 118,
-        "total": 5540
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
       }
     },
     {
